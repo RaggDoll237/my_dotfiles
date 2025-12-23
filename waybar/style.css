@@ -1,0 +1,30 @@
+* {
+    font-family: "Monospace";
+    font-size: 18px;
+    color: #e0e0e0;
+    background: #2e2e2e;
+}
+
+#workspaces button {
+    border: none;
+    padding: 4px 8px;
+    margin: 0 2px;
+    border-radius: 4px;
+    background: #3a3a3a;
+    color: #c0c0c0;
+}
+
+#workspaces button.active {
+    background: #555555;
+    color: #ffffff;
+}
+
+#clock, #battery, #pulseaudio {
+    padding: 0 6px;
+    background: #2e2e2e;
+}
+
+#clock:hover, #battery:hover, #pulseaudio:hover {
+    background: #3a3a3a;
+}
+
