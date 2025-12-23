@@ -11,7 +11,7 @@ If you install this, THANKS!
 
 ---
 
-<img title="a title" alt="Cool PNG" src="./screenshots/Pasted image 20251223211743.png>
+<img title="a title" alt="Cool PNG" src="./screenshots/Pasted image 20251223211743.png">
 
 ---
 
