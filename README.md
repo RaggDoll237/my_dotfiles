@@ -7,7 +7,7 @@ If you install this, THANKS!
 
 ---
 ## Screens
-![[screenshots/Pasted image 20251223211728.png]]![[screenshots/Pasted image 20251223211743.png]]
+![[/screenshots/Pasted image 20251223211728.png]]![[screenshots/Pasted image 20251223211743.png]]
 ![[screenshots/Pasted image 20251223211803.png]]
 
 ---
