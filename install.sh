@@ -1,6 +1,8 @@
-sudo pacman -S swaybg hyprland wofi waybar flatpak fish spotify-launcher firefox discord
+sudo pacman -S swaybg hyprland wofi waybar flatpak fish spotify-launcher firefox discord ly
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 omf install bobthefish
+sudo systemctl enable ly
+sudo systemctl strat ly
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
